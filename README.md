@@ -1,1 +1,1 @@
-# K-Means-Clustering-Image-Processing
+# Image Clustering using K-Means in C++
